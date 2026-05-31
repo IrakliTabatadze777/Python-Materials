@@ -11,7 +11,7 @@ difficulty: Beginner
 
 # Numbers and Math in Python
 
-**Prev:** [[05 - Encoding]] | **Next:** [[]]
+**Prev:** [[03 - Strings]] | **Next:** [[05 - Boolean and None]]
 
 > Numbers are one of the most fundamental data types in Python. They are used everywhere — from simple calculations to data science, web development, and machine learning.
 
@@ -277,4 +277,15 @@ print(a / b)
 
 ---
 
-Continue with **[[]]**
+## See also
+
+- [[03 - Strings]] — parsing digits from text and formatting numeric output
+- [[06 - Operators and Expressions]] — `+`, `-`, `*`, `/`, `//`, `%`, `**`, and precedence in depth
+- [[05 - Boolean and None]] — comparisons like `num % 2 == 0` that produce booleans
+- [Python docs — Numeric types](https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex)
+
+---
+
+## → What's next
+
+You can work with integers, floats, and everyday math. Programs also need yes/no answers and a way to represent "nothing" — `True`, `False`, and `None` — covered in [[05 - Boolean and None]].

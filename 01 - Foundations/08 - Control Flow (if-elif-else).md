@@ -1,12 +1,15 @@
 ---
-tags: [foundations, python, ontrol-flow]
+tags:
+  - foundations
+  - python
+  - control-flow
 stage: 1
 difficulty: Beginner
 ---
 
 # Control Flow: if, elif, else
 
-**Prev:** [[03 - Operators and Expressions]] | **Next:** [[05 - Loops]]
+**Prev:** [[07 - Comparisons and Logical Operators]] | **Next:** [[09 - While loop]]
 
 > Control flow determines the path your program takes. The `if-elif-else` structure is Python’s primary way of making decisions, allowing your code to respond intelligently to different situations.
 
@@ -388,13 +391,16 @@ else:
 - Add comments for complex conditions
 
 ---
-## See Also
 
-- [[02 - Variables and Data Types]] — Understanding objects and mutability
-- [[05 - Loops]] — Repeating actions with `for` and `while`
+## See also
+
+- [[07 - Comparisons and Logical Operators]] — building the conditions used in `if` and `elif`
+- [[05 - Boolean and None]] — truthiness and checking `None` with `is`
+- [[09 - While loop]] — repeating a block while a condition stays true
+- [[10 - For loop]] — iterating sequences after you can branch on conditions
+- [[11 - break, continue, pass]] — exiting or skipping iterations from inside loops
 
 ---
+## → What's next
 
-Continue with **[[05 - Loops]]**
-
----
+Your programs can branch on conditions. The next leap is *repetition* — running the same block until something changes — starting with the condition-driven [[09 - While loop]].

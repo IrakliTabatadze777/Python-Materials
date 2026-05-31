@@ -155,7 +155,7 @@ You will see `>>>` prompt. Try these commands:
 ```python
 >>> print("Hello, World!")
 >>> 10 + 25
->>> name = "John"
+>>> name = "Luka"
 >>> print("My name is", name)
 >>> exit()        # to quit
 ```
@@ -226,6 +226,17 @@ deactivate
 
 ---
 
-Continue with **[[02 - Variables and Data Types]]**
+## See also
+
+- [[02 - Variables and Data Types]] — names, types, and how Python stores values in memory
+- [Python.org — Downloads](https://www.python.org/downloads/) — official installers for your platform
+- [Python docs — Tutorial](https://docs.python.org/3/tutorial/index.html) — official getting-started guide
+- [Python docs — venv](https://docs.python.org/3/library/venv.html) — virtual environment reference
 
 ---
+
+## → What's next
+
+You have Python installed and a mental model of how the interpreter runs your code. The next step is storing and working with data — how names bind to objects, what types exist, and why mutability matters — starting with [[02 - Variables and Data Types]].
+
+

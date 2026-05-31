@@ -354,6 +354,15 @@ print(keyword.iskeyword("for"))
 
 ---
 
-Continue with **[[03 - Strings]]**
+## See also
+
+- [[01 - Getting Started]] — interpreter, execution model, and virtual environments
+- [[03 - Strings]] — first text type: creation, slicing, and formatting
+- [[04 - Numbers and Math]] — `int`, `float`, and numeric behavior
+- [[07 - Comparisons and Logical Operators]] — `is` vs `==`, identity vs value
 
 ---
+
+## → What's next
+
+Every value has a type and every name is a label on an object. The type you will use most often in everyday programs is text — how to create, slice, and format it — in [[03 - Strings]].

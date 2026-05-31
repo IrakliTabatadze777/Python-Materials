@@ -9,7 +9,7 @@ difficulty: Beginner
 
 # Strings in Python
 
-**Prev:** [[02 - Variables and Data Types]] | **Next:** [[04 - ReGex]]
+**Prev:** [[02 - Variables and Data Types]] | **Next:** [[04 - Numbers and Math]]
 
 > Strings are one of the most commonly used data types in Python. They allow you to work with text — from simple messages to complex data processing.
 
@@ -271,6 +271,16 @@ if "@" in email and "." in email:
 
 ---
 
-Continue with **[[04 - ReGex]]**
+## See also
+
+- [[02 - Variables and Data Types]] — immutability, object references, and type checking
+- [[04 - Numbers and Math]] — converting between strings and numbers with `int()` / `str()`
+- [[07 - Comparisons and Logical Operators]] — membership with `in`, comparing and combining strings
+- [[10 - For loop]] — iterating over characters in a string
 
 ---
+
+## → What's next
+
+You can create, slice, and format text. Programs also need numbers for counting, measuring, and calculating — integers, floats, and the math that goes with them — in [[04 - Numbers and Math]].
+
