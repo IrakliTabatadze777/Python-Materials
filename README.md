@@ -26,7 +26,7 @@ Obsidian is free for personal use. You do not need an account to open a local va
 
    ```bash
    git clone <repository-url>
-   cd python-reading-materials
+   cd Python-Materials
    ```
 
    Or download the ZIP from GitHub and extract it.
