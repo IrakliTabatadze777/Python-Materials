@@ -181,6 +181,7 @@
   },
   "active": "b25a1c2ea4c6aeed",
   "lastOpenFiles": [
+    "00 - Home",
     "05 - WEB/test.md",
     "04 - Networking/test.md",
     "03 - Concurrency/test.md",
@@ -215,7 +216,6 @@
     "Common-Errors",
     "Advanced/LEGB-Scope.md",
     "Advanced",
-    "Core/Functions-II.md",
-    "Core/Functions-I.md"
+    "Core/Functions-II.md"
   ]
 }
