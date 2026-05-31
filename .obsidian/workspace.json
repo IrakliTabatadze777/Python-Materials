@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "2df0b0f318d4fe41",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc9a1adf695430a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "909dc1b2c3a8cb6f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "904e7ffc47959c91",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb8a6cf002e190d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b25a1c2ea4c6aeed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aa8ceae66a998eed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4813e45785736cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77f9c3559832d3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "f38f5ce1e236c549",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024ba0cb46dfc71c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Meta/Glossary.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Glossary"
+            }
+          },
+          {
+            "id": "36a95ef91ac80b75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Meta/Glossary.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Glossary"
+            }
+          },
+          {
+            "id": "69c1a72688ccc9d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "847743d549695d4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "6a46c7f05ef1ec8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Meta/Glossary.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Glossary"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b25a1c2ea4c6aeed",
+  "lastOpenFiles": [
+    "05 - WEB/test.md",
+    "04 - Networking/test.md",
+    "03 - Concurrency/test.md",
+    "02 - Intermediate/test.md",
+    "01 - Foundations/test.md",
+    "05 - WEB",
+    "04 - Networking",
+    "04 - ",
+    "03 - Concurrency",
+    "02 - Intermediate/03 - Concurrency",
+    "02 - Intermediate",
+    "01 - Foundations",
+    "01-",
+    "Core/Dicts-and-Sets.md",
+    "Core/Lists-and-Tuples.md",
+    "00-Meta/Glossary.md",
+    "Foundations/What-is-Python.md",
+    "Foundations/Conditionals.md",
+    "Foundations/Loops.md",
+    "Foundations/Regex.md",
+    "Foundations/String-Methods.md",
+    "Foundations/Type-Conversion.md",
+    "Foundations/Variables-and-Types.md",
+    "Advanced/Decorators.md",
+    "00-Meta/Tag-Index.md",
+    "00-Meta/Start-Here.md",
+    "Core/Type-Hinting.md",
+    "Common-Errors/String-Pitfalls.md",
+    "Common-Errors/Function-Pitfalls.md",
+    "Advanced/Generators.md",
+    "Common-Errors/List-Pitfalls.md",
+    "Common-Errors",
+    "Advanced/LEGB-Scope.md",
+    "Advanced",
+    "Core/Functions-II.md",
+    "Core/Functions-I.md"
+  ]
+}
