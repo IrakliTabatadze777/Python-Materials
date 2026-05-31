@@ -3,13 +3,14 @@ tags:
   - foundations
   - python
   - loops
+  - control-flow
 stage: 1
 difficulty: Beginner
 ---
 
 # Loops (for and while)
 
-**Prev:** [[04 - Control Flow (if-elif-else)]] | **Next:** [[06 - Lists and Tuples]]
+**Prev:** [[04 - Control Flow (if-elif-else)]] | **Next:** [[]]
 
 > Loops are a fundamental concept in programming that allow you to repeat a block of code multiple times. Python provides two main types of loops: `while` and `for`.
 
@@ -412,10 +413,10 @@ If you can describe the task as "for each X, do something for every Y", a nested
 ## See Also
 
 - [[04 - Control Flow (if-elif-else)]] — Decision making with conditions
-- [[06 - Lists and Tuples]] — Working with collections of data
+- [[Lists and Tuples]] — Working with collections of data
 
 ---
 
-Continue with **[[06 - Lists and Tuples]]**
+Continue with **[[]]**
 
 ---

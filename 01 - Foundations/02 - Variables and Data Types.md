@@ -10,7 +10,7 @@ difficulty: Beginner
 
 # Variables and Data Types in Python
 
-**Prev:** [[01 - Getting Started]] | **Next:** [[03 - Operators and Expressions]]
+**Prev:** [[01 - Getting Started]] | **Next:** [[03 - Strings]]
 
 > In Python, everything is an object. Variables are simply names that reference these objects, and data types define what kind of object is stored and how Python handles it.
 
@@ -354,6 +354,6 @@ print(keyword.iskeyword("for"))
 
 ---
 
-Continue with **[[03 - Operators and Expressions]]**
+Continue with **[[03 - Strings]]**
 
 ---

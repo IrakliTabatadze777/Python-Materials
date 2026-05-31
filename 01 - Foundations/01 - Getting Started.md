@@ -1,5 +1,8 @@
 ---
-tags: [foundations, python, setup]
+tags:
+  - foundations
+  - python
+  - setup
 stage: 1
 difficulty: Beginner
 ---
