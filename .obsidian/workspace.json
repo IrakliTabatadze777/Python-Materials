@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cc9a1adf695430a7",
+        "id": "8ff1daee9bcf760c",
         "type": "tabs",
         "children": [
           {
-            "id": "909dc1b2c3a8cb6f",
+            "id": "570c8eb51cfd169d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5
   },
   "right": {
     "id": "77f9c3559832d3dd",
@@ -179,43 +183,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "b25a1c2ea4c6aeed",
+  "active": "570c8eb51cfd169d",
   "lastOpenFiles": [
+    "01 - Foundations/02 - Variables and Data Types.md",
+    "README.md",
+    "01 - Foundations/01 - Getting Started.md",
+    "01 - Foundations/03 - Strings.md",
+    "01 - Foundations/04 - Numbers and Math.md",
+    "01 - Foundations/05 - Boolean and None.md",
+    "01 - Foundations/06 - Operators and Expressions.md",
+    "01 - Foundations/07 - Comparisons and Logical Operators.md",
+    "01 - Foundations/08 - Control Flow (if-elif-else).md",
+    "01 - Foundations/09 - While loop.md",
+    "01 - Foundations/11 - break, continue, pass.md",
+    "01 - Foundations/10 - For loop.md",
+    "01 - Foundations/09 - Loops.md",
+    "01 - Foundations/03 - Operators and Expressions.md",
+    "02 - Intermediate/05 - Encoding.md",
+    "02 - Intermediate/04 - ReGex.md",
+    "05 - ASCII and Unicode in Python.md",
+    "05 - WEB/Readme.md",
+    "04 - Networking/Readme.md",
+    "03 - Concurrency/Readme.md",
+    "02 - Intermediate/Readme.md",
+    "06 - Strings.md",
+    "04 - Control Flow (if/else).md",
+    "04 - Control Flow (if",
+    "01 - Getting Started with Python.md",
+    "02 - Variables and Types.md",
+    "Core/Lists-and-Tuples.md",
+    "01 - Foundations/01 - ",
     "00 - Home",
-    "05 - WEB/test.md",
-    "04 - Networking/test.md",
-    "03 - Concurrency/test.md",
-    "02 - Intermediate/test.md",
-    "01 - Foundations/test.md",
     "05 - WEB",
     "04 - Networking",
     "04 - ",
     "03 - Concurrency",
     "02 - Intermediate/03 - Concurrency",
     "02 - Intermediate",
-    "01 - Foundations",
-    "01-",
-    "Core/Dicts-and-Sets.md",
-    "Core/Lists-and-Tuples.md",
-    "00-Meta/Glossary.md",
-    "Foundations/What-is-Python.md",
-    "Foundations/Conditionals.md",
-    "Foundations/Loops.md",
-    "Foundations/Regex.md",
-    "Foundations/String-Methods.md",
-    "Foundations/Type-Conversion.md",
-    "Foundations/Variables-and-Types.md",
-    "Advanced/Decorators.md",
-    "00-Meta/Tag-Index.md",
-    "00-Meta/Start-Here.md",
-    "Core/Type-Hinting.md",
-    "Common-Errors/String-Pitfalls.md",
-    "Common-Errors/Function-Pitfalls.md",
-    "Advanced/Generators.md",
-    "Common-Errors/List-Pitfalls.md",
-    "Common-Errors",
-    "Advanced/LEGB-Scope.md",
-    "Advanced",
-    "Core/Functions-II.md"
+    "01 - Foundations"
   ]
 }
