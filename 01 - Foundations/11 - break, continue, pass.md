@@ -13,7 +13,7 @@ difficulty: Beginner
 
 # break, continue, and pass
 
-**Prev:** [[10 - For loop]] | **Next:** [[12 - Lists and Tuples]]
+**Prev:** [[10 - For loop]] | **Next:** [[12 - Lists]]
 
 > `break` exits a loop early. `continue` skips to the next iteration. `pass` does nothing — but deliberately. Together they let you control loop flow without rewriting the whole structure.
 
@@ -420,4 +420,4 @@ for n in numbers:
 
 ## → What's next
 
-You can control repetition with `break`, `continue`, and `pass`. Foundations finish by organizing data into collections — storing, accessing, and iterating groups of values — starting with [[12 - Lists and Tuples]].
+You can control repetition with `break`, `continue`, and `pass`. Foundations finish by organizing data into collections — storing, accessing, and iterating groups of values — starting with [[12 - Lists]].
