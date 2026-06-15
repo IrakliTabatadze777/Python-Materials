@@ -3,13 +3,14 @@ tags:
   - foundations
   - python
   - data-structures
+  - collections
 stage: 1
 difficulty: Beginner
 ---
 
 # Sets in Python
 
-**Prev:** [[14 - Dictionaries]] | **Next:** [[]]
+**Prev:** [[14 - Dictionaries]] | **Next:** [[16 - Defining Functions]]
 
 > Sets are unordered collections of **unique** elements. They are extremely useful for mathematical operations, removing duplicates, and fast membership testing.
 
@@ -428,4 +429,4 @@ my_dict = {frozen: "some value"}
 
 Sets are excellent for working with unique data and performing fast membership tests and mathematical operations.
 
-Continue with **[[]]**
+Continue with **[[16 - Defining Functions]]**

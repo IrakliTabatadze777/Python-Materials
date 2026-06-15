@@ -3,6 +3,7 @@ tags:
   - foundations
   - python
   - data-structures
+  - collections
 stage: 1
 difficulty: Beginner
 ---
