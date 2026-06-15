@@ -347,6 +347,17 @@ print(students["Alice"]["grades"]["math"])
 
 ---
 
+## See also
+
+- [[13 - Tuples]] — tuples as dict keys; immutability and hashability
+- [[12 - Lists]] — mutable ordered collections; values in dicts can be lists
+- [[10 - For loop]] — iterating over `.items()`, `.keys()`, and `.values()`
+- [[02 - Variables and Data Types]] — object references and mutability
+- [[07 - Comparisons and Logical Operators]] — membership with `in` for dict keys
+- [[28 - JSON]] — serializing dicts to JSON and back
+
+---
+
 ## → What's Next
 
 Dictionaries are incredibly versatile for organizing and accessing data by meaningful keys. Next, you'll learn about Sets — another important data structure.

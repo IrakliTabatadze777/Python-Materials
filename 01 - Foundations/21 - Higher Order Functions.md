@@ -471,6 +471,16 @@ Explanation:
 
 ---
 
+## See also
+
+- [[16 - Defining Functions]] — functions as objects and first-class citizens
+- [[19 - Lambda Functions]] — lambdas are often passed to higher-order functions
+- [[22 - Built-in Functions]] — `map`, `filter`, and `sorted` are higher-order
+- [[18 - Scope and Namespaces]] — closures capture variables from enclosing scope
+- [[17 - Arguments and Parameters]] — passing functions as arguments
+
+---
+
 ## → What's Next
 
 Now that you understand higher-order functions and how functions can be passed around and returned like values, the next step is learning about Python’s **built-in functions**.

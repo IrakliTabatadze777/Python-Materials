@@ -271,6 +271,16 @@ def withdraw(balance, amount):
 
 ---
 
+## See also
+
+- [[08 - Control Flow (if-elif-else)]] — `if` conditions before risky operations
+- [[26 - File I-O]] — file operations raise `FileNotFoundError`, `PermissionError`
+- [[16 - Defining Functions]] — functions can raise exceptions with `raise`
+- [[05 - Boolean and None]] — `None` as a safe return when errors occur
+- [Python docs — Exceptions](https://docs.python.org/3/library/exceptions.html)
+
+---
+
 ## → What's Next
 
 Now that you understand how to handle errors gracefully and Python’s exception hierarchy, it's time to learn **File I/O** — how to read from and write to files on your computer.

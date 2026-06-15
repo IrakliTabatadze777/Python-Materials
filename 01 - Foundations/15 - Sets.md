@@ -425,6 +425,16 @@ my_dict = {frozen: "some value"}
 
 ---
 
+## See also
+
+- [[14 - Dictionaries]] — keys are unique like set elements; both use hashing
+- [[12 - Lists]] — converting lists to sets removes duplicates
+- [[13 - Tuples]] — immutable sequences that can be set elements
+- [[07 - Comparisons and Logical Operators]] — membership with `in` is O(1) for sets
+- [[10 - For loop]] — iterating over sets (order not guaranteed)
+
+---
+
 ## → What's Next
 
 Sets are excellent for working with unique data and performing fast membership tests and mathematical operations.

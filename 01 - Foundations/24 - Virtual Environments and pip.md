@@ -10,7 +10,7 @@ difficulty: Beginner
 
 # Virtual Environments and pip in Python
 
-**Prev:** [[23 - Modules and Imports]] | **Next:** [[25 - File Handling]]
+**Prev:** [[23 - Modules and Imports]] | **Next:** [[25 - Error Handling]]
 
 > In this lesson you will learn how to manage Python packages and isolate project dependencies using **virtual environments** and **`pip`**. This is essential knowledge for every Python developer working on real projects.
 
@@ -280,6 +280,16 @@ __pycache__/
 - Always work inside a **virtual environment** to avoid conflicts
 - Use `requirements.txt` to make your project shareable and reproducible
 - This is the standard professional workflow used by Python developers worldwide
+
+---
+
+## See also
+
+- [[23 - Modules and Imports]] — modules vs packages; `import` basics
+- [[01 - Getting Started]] — installing Python and initial setup
+- [PyPI — Python Package Index](https://pypi.org/) — where third-party packages live
+- [pip documentation](https://pip.pypa.io/) — official pip guide
+- [venv documentation](https://docs.python.org/3/library/venv.html) — virtual environment reference
 
 ---
 

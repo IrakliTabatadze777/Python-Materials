@@ -356,6 +356,16 @@ print(sorted_students)
 
 ---
 
+## See also
+
+- [[16 - Defining Functions]] — regular functions; lambda is shorthand for simple cases
+- [[17 - Arguments and Parameters]] — lambda parameters work the same way
+- [[21 - Higher Order Functions]] — lambdas as arguments to `map`, `filter`, `sorted`
+- [[22 - Built-in Functions]] — `sorted(key=lambda ...)` and `filter(lambda ...)`
+- [[18 - Scope and Namespaces]] — lambdas capture variables from enclosing scope
+
+---
+
 ## → What's Next
 
 Now that you understand lambda functions, the next step is recursive functions, functions that calls themselves.

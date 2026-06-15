@@ -329,6 +329,16 @@ Mastering modules is the foundation for building larger Python applications.
 
 ---
 
+## See also
+
+- [[16 - Defining Functions]] — functions in modules are just functions in files
+- [[18 - Scope and Namespaces]] — each module has its own global namespace
+- [[24 - Virtual Environments and pip]] — installing third-party modules
+- [[01 - Getting Started]] — standard library is built-in modules
+- [Python docs — Standard Library](https://docs.python.org/3/library/)
+
+---
+
 ## → What's Next
 
 Now that you know how to organize code with modules, it's time to learn how to manage Python packages and dependencies using **virtual environments** and `pip`.

@@ -493,6 +493,16 @@ def b():
 
 ---
 
+## See also
+
+- [[17 - Arguments and Parameters]] — passing data into functions
+- [[18 - Scope and Namespaces]] — where variables exist and are accessible
+- [[19 - Lambda Functions]] — anonymous single-expression functions
+- [[20 - Recursive Functions]] — functions that call themselves
+- [[08 - Control Flow (if-elif-else)]] — branching logic inside function bodies
+
+---
+
 ## → What's Next
 
 Now that you understand how to define and structure functions (including nested ones), the next step is learning how to pass data into them.

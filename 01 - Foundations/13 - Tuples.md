@@ -230,6 +230,16 @@ print(student[2][0])       # Mathematics
 
 ---
 
+## See also
+
+- [[12 - Lists]] — mutable ordered sequences; tuples are immutable versions
+- [[14 - Dictionaries]] — tuples can be dict keys when they contain only immutable items
+- [[02 - Variables and Data Types]] — immutability and why `=` creates references
+- [[10 - For loop]] — iterating over tuples and unpacking in loops
+- [[16 - Defining Functions]] — returning multiple values as tuples
+
+---
+
 ## → What's Next
 
 Tuples provide a safe and efficient way to work with fixed collections. Now you're ready to explore key-value mappings.

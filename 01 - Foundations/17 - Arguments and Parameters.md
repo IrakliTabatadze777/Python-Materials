@@ -373,6 +373,16 @@ They allow functions to:
 
 ---
 
+## See also
+
+- [[16 - Defining Functions]] — function structure and return values
+- [[18 - Scope and Namespaces]] — how function parameters create local scope
+- [[19 - Lambda Functions]] — lambda parameters work the same way
+- [[12 - Lists]] — `*args` collects into a tuple, not a list
+- [[14 - Dictionaries]] — `**kwargs` collects into a dict
+
+---
+
 ## → What's Next
 
 Now that you understand how functions receive input, the next step is understanding how Python manages variable visibility and memory scope.

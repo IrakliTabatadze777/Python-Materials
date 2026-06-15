@@ -343,6 +343,16 @@ print(maximum)  # 5
 
 ---
 
+## See also
+
+- [[10 - For loop]] — `range`, `enumerate`, and `zip` are loop companions
+- [[12 - Lists]] — list comprehensions vs `map` and `filter`
+- [[21 - Higher Order Functions]] — `map`, `filter`, `reduce` accept functions
+- [[19 - Lambda Functions]] — lambdas with `sorted`, `map`, and `filter`
+- [[03 - Strings]] — `len` on strings, `sorted` on characters
+
+---
+
 ## → What's Next
 
 Now that you understand Python’s core built-in functions, the next step is learning how to organize code into multiple files using **modules and imports**.

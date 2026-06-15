@@ -474,6 +474,16 @@ def func():
 
 ---
 
+## See also
+
+- [[16 - Defining Functions]] — function definitions create local scope
+- [[17 - Arguments and Parameters]] — parameters live in local scope
+- [[02 - Variables and Data Types]] — names and references in different namespaces
+- [[23 - Modules and Imports]] — modules have their own global namespace
+- [[21 - Higher Order Functions]] — closures capture enclosing scope
+
+---
+
 ## → What's Next
 
 Now that you understand how Python manages variable visibility and scope, the next step is learning about anonymous functions.

@@ -350,6 +350,17 @@ Path("data/logs").mkdir(parents=True, exist_ok=True)
 
 ---
 
+## See also
+
+- [[25 - Error Handling]] — handling `FileNotFoundError` and `PermissionError`
+- [[10 - For loop]] — iterating over file lines efficiently
+- [[03 - Strings]] — reading and processing text from files
+- [[27 - CSV]] — structured file format for tabular data
+- [[28 - JSON]] — structured file format for nested data
+- [Python docs — open()](https://docs.python.org/3/library/functions.html#open)
+
+---
+
 ## → What's Next
 
 Now that you know how to work with files in Python, the next step is learning how to handle **CSV files** — one of the most common formats for storing tabular data.
