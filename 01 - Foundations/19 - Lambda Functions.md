@@ -358,6 +358,6 @@ print(sorted_students)
 
 ## → What's Next
 
-Now that you understand lambda functions, the next step is learning higher-order functions — functions that take other functions as input or return them.
+Now that you understand lambda functions, the next step is recursive functions, functions that calls themselves.
 
 Continue with **[[20 - Recursive Functions]]**

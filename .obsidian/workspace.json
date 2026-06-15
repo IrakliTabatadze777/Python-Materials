@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Foundations/18 - Scope and Namespaces.md",
+                "file": "01 - Foundations/25 - Error Handling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18 - Scope and Namespaces"
+              "title": "25 - Error Handling"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Foundations/22 - Built-in Functions.md",
+                "file": "01 - Foundations/13 - Tuples.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22 - Built-in Functions"
+              "title": "13 - Tuples"
             }
           }
         ],
@@ -214,15 +214,24 @@
   },
   "active": "cc2f2cd8118dae46",
   "lastOpenFiles": [
-    "01 - Foundations/21 - Higher Order Functions.md",
-    "01 - Foundations/18 - Scope and Namespaces.md",
-    "01 - Foundations/20 - Recursive Functions.md",
-    "01 - Foundations/22 - Built-in Functions.md",
-    "01 - Foundations/19 - Lambda Functions.md",
-    "22 - Decorators.md",
-    "01 - Foundations/16 - Defining Functions.md",
     "01 - Foundations/15 - Sets.md",
+    "01 - Foundations/16 - Defining Functions.md",
+    "01 - Foundations/19 - Lambda Functions.md",
+    "01 - Foundations/21 - Higher Order Functions.md",
+    "01 - Foundations/23 - Modules and Imports.md",
+    "01 - Foundations/24 - Virtual Environments and pip.md",
+    "01 - Foundations/25 - Error Handling.md",
+    "01 - Foundations/26 - File I-O.md",
+    "01 - Foundations/27 - CSV.md",
+    "01 - Foundations/28 - JSON.md",
+    "01 - Foundations/18 - Scope and Namespaces.md",
+    "26 - File I/O.md",
+    "26 - File I",
+    "01 - Foundations/22 - Built-in Functions.md",
+    "02 -.md",
+    "01 - Foundations/20 - Recursive Functions.md",
     "01 - Foundations/17 - Arguments and Parameters.md",
+    "22 - Decorators.md",
     "01 - Foundations/08 - Control Flow (if-elif-else).md",
     "01 - Foundations/10 - For loop.md",
     "01 - Foundations/12 - Lists.md",
@@ -232,14 +241,6 @@
     "01 - Foundations/11 - break, continue, pass.md",
     "02 - Intermediate/05 - Encoding.md",
     "02 - Intermediate/04 - ReGex.md",
-    "01 - Foundations/01 - Getting Started.md",
-    "01 - Foundations/07 - Comparisons and Logical Operators.md",
-    "01 - Foundations/06 - Operators and Expressions.md",
-    "01 - Foundations/02 - Variables and Data Types.md",
-    "README.md",
-    "01 - Foundations/03 - Strings.md",
-    "01 - Foundations/04 - Numbers and Math.md",
-    "01 - Foundations/05 - Boolean and None.md",
     "04 - Control Flow (if",
     "01 - Foundations/01 - ",
     "00 - Home",
@@ -248,7 +249,6 @@
     "04 - ",
     "03 - Concurrency",
     "02 - Intermediate/03 - Concurrency",
-    "02 - Intermediate",
-    "01 - Foundations"
+    "02 - Intermediate"
   ]
 }
