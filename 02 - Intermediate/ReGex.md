@@ -10,7 +10,7 @@ difficulty: Intermediate
 
 # Regular Expressions (Regex) in Python
 
-**Prev:** [[03 - Strings]] | **Next:** [[05 - Encoding]]
+**Prev:** [[03 - Strings]] | **Next:** [[Encoding]]
 
 > Regular Expressions are a powerful tool for pattern matching and text manipulation. They allow you to search, validate, extract, and replace text based on complex patterns.
 
@@ -236,6 +236,6 @@ urls = re.findall(r"https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+", text)
 
 ---
 
-Continue with **[[05 - Encoding]]**
+Continue with **[[Encoding]]**
 
 ---

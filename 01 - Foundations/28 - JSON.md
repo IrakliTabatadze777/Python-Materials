@@ -10,7 +10,7 @@ difficulty: Beginner
 
 # Working with JSON in Python
 
-**Prev:** [[27 - CSV]] | **Next:** *Coming Soon*
+**Prev:** [[27 - CSV]] | **Next:** [[01 - OOP — Classes and Objects]]
 
 > In this lesson you will learn how to work with **JSON** — the most popular data format for web APIs, configuration files, and data exchange between systems. You will understand what serialization means, why JSON dominates modern programming, and master Python's built-in `json` module.
 

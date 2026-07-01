@@ -10,7 +10,7 @@ difficulty: Intermediate
 
 # ASCII and Unicode in Python
 
-**Prev:** [[04 - ReGex]] | **Next:** [[04 - Numbers and Math]]
+**Prev:** [[ReGex]] | **Next:** [[04 - Numbers and Math]]
 
 > Understanding ASCII and Unicode is essential for working with text properly in Python. It explains how computers store and represent characters from different languages, symbols, and emojis.
 
