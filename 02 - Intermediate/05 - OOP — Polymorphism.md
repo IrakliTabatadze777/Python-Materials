@@ -9,7 +9,7 @@ difficulty: Intermediate
 
 # OOP — Polymorphism
 
-**Prev:** [[04 - OOP — Encapsulation]] | **Next:** *Coming Soon*
+**Prev:** [[04 - OOP — Encapsulation]] | **Next:** [[06 - OOP — Abstract Classes]]
 
 > In this lesson you will learn **Polymorphism** — the final core principle of Object-Oriented Programming. You will discover how to use different objects in the same way, making your code more flexible, reusable, and elegant.
 
@@ -239,6 +239,7 @@ start_reading(Audiobook())
 - [[02 - OOP — Inheritance]] — building class hierarchies
 - [[03 - OOP — Multiple Inheritance]] — method resolution order and cooperative inheritance
 - [[04 - OOP — Encapsulation]] — protecting data with properties
+- [[06 - OOP — Abstract Classes]] — enforcing method implementation in subclasses
 - [[16 - Defining Functions]] — understanding how functions and methods work
 - [[19 - Lambda Functions]] — anonymous functions often used with polymorphic patterns
 
@@ -252,3 +253,7 @@ You now understand the four main pillars of Object-Oriented Programming:
 - **Inheritance** — building specialized classes from general ones
 - **Encapsulation** — controlling access to data
 - **Polymorphism** — treating different objects uniformly
+
+In the next lesson, we will explore **Abstract Classes** — how to define blueprints that force subclasses to implement specific methods, making your class hierarchies safer and more predictable.
+
+Continue with **[[06 - OOP — Abstract Classes]]**
