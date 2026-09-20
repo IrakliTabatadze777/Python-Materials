@@ -9,7 +9,7 @@ difficulty: Intermediate
 
 # OOP — Class and Static Methods
 
-**Prev:** [[07 - OOP — Dunder Methods]] | **Next:** [[09 - Closures]]
+**Prev:** [[07 - OOP — Dunder Methods]] | **Next:** [[09 - Enums]]
 
 > In this lesson you will learn about **Class Methods** and **Static Methods** — two special kinds of methods that belong to the class itself rather than to any single instance. You'll learn when to use each, and how they differ from the regular instance methods you already know.
 
@@ -293,8 +293,9 @@ print(DatabaseConnection.is_valid_port(99999))     # False
 - [[01 - OOP — Classes and Objects]] — foundation of classes, objects, and instance methods
 - [[02 - OOP — Inheritance]] — how `cls` ensures subclasses build the correct type
 - [[07 - OOP — Dunder Methods]] — `__init__` as the standard constructor these methods complement
-- [[09 - Closures]] — how nested functions remember their enclosing scope
-- [[10 - Dataclasses]] — reducing boilerplate for classes that mostly store data
+- [[09 - Enums]] — another way to represent a fixed, named set of related values
+- [[11 - Closures]] — how nested functions remember their enclosing scope
+- [[12 - Dataclasses]] — reducing boilerplate for classes that mostly store data
 
 ---
 
@@ -307,6 +308,6 @@ You now understand **Class and Static Methods**:
 - How to use `@staticmethod` for utility logic that belongs with the class
 - How to choose the right method type based on what data it needs
 
-In the next lesson, we will explore **Closures** — how a nested function can "remember" variables from the scope it was created in, even after that outer function has finished running.
+In the next lesson, we will explore **Enums** — a clean, type-safe way to represent a fixed set of named constants, instead of scattering raw strings or numbers throughout your code.
 
-Continue with **[[09 - Closures]]**
+Continue with **[[09 - Enums]]**
